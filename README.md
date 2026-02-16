@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="290" src="https://media3.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=6c09b952yil1mq38lhvvytxi4bdv7hys1z3dmt5i5usae85p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsingh206&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsingh206" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamnegi07&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamnegi07" /> </p>
 
 <p align="left">📚 I’m currently Learning MERN Stack<br>✨ Building. Breaking. Learning. Repeating<br>🎯 Goals: FAANG-level Software Engineer<br>🎲 Fun fact: I turn complex problems into clean solutions<br>📫 How to reach me:negishubham907@gmail.com</p>
 
@@ -68,11 +68,11 @@
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/ShubhamNegi-07/ShubhamNegi-07/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <h2 align="center">Connect with me</h2>
 
